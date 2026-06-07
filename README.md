@@ -102,7 +102,7 @@ at a glance.
 
 ## Screenshot
 
-![NetGuard Dashboard](assets/screenshots/home_page.png)
+![NetGuard Dashboard](assets/screenshot/home_page.png)
 
 ---
 
